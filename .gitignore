@@ -1,0 +1,9 @@
+# Go
+/bin/
+/pkg/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
